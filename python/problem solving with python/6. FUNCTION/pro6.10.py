@@ -1,0 +1,1 @@
+""" Write a program to show local scope vs global scope."""
