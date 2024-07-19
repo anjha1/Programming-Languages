@@ -1,0 +1,1 @@
+""" Write a simple program to demonstrate multiple inheritance."""
