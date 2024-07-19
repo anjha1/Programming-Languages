@@ -1,1 +1,0 @@
-"""  Write a program to inherit attributes of the parent class to a child class."""
