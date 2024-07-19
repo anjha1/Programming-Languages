@@ -1,0 +1,1 @@
+"""Demonstrate the use of the * operator on positional arguments"""

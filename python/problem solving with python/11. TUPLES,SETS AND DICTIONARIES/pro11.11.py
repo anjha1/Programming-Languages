@@ -1,0 +1,1 @@
+""" Write a program to count the frequency of characters using the get() method."""

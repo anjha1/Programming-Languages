@@ -1,0 +1,1 @@
+"""Write a program to traverse tuples from a list"""

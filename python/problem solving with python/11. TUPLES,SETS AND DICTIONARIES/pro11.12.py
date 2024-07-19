@@ -1,0 +1,1 @@
+""" Write a program to print and store squares of numbers into a dictionary"""
