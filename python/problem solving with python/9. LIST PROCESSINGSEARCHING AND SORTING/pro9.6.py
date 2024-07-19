@@ -1,0 +1,1 @@
+""" Write a Python program to sort elements of a list using quick sort.     """
