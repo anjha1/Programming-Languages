@@ -1,1 +1,0 @@
-""" Write a program without using the global statement"""

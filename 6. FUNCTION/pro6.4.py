@@ -1,1 +1,0 @@
-"""Write a program to illustrate the use of functions. """

@@ -1,1 +1,0 @@
-""" Write a simple program on keyword argument"""
