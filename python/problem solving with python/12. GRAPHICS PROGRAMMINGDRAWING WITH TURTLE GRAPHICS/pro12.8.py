@@ -1,0 +1,1 @@
+""" Write a program to draw the petals of the fl ower shown as follows using the circle method."""

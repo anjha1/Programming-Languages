@@ -1,0 +1,1 @@
+""" Write a program to draw the square shown as follows using Python’s Turtle module."""

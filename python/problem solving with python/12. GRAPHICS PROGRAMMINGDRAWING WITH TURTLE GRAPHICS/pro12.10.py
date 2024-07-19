@@ -1,0 +1,1 @@
+""" Write a program to draw a bar chart using Turtle for the sample data given in Table 12.5"""

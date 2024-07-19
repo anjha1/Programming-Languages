@@ -1,0 +1,1 @@
+""" Write a program to display the polygon shown as follows:"""
