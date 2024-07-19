@@ -1,0 +1,1 @@
+"""Write a program to read the content of the fi le ReadDemo1.txt using the read() method."""
