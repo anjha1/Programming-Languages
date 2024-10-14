@@ -6,7 +6,7 @@ class solution{
             arr[arr.length-1-i]=temp;
         }
         for(int p:arr){
-            System.out.println(p);
+            System.out.print(p+" ");
         }
     }
 }
